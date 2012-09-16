@@ -4,5 +4,6 @@
     <string name="hello_world">Hello Z-app!!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="hello_z_app">Hello from Z-app</string>
 
 </resources>
