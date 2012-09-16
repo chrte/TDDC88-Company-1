@@ -6,7 +6,7 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello World! (maint2)");
-		System.out.println("hello z-app");
+		System.out.println("hello z-app!!");
 	}
 
 }
